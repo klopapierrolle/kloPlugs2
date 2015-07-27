@@ -1,0 +1,10 @@
+name: kloPlugs
+main: main.MainClass
+version: 2.0
+author: klopapierrolle
+
+commands:
+  showmethetime:
+    description: Zeigt die In-Game-Zeit an.
+  job:
+    description: Command zum bearbeiten/einsehen der Berufe eines Spielers.
